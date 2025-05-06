@@ -5,5 +5,6 @@ public class Lab001HelloWorld {
 
         System.out.println("hello 12455");
         System.out.println("HI 66622");
+        System.out.println("88888");
     }
 }
