@@ -4,6 +4,6 @@ public class Lab001HelloWorld {
     public static void main(String[] args) {
 
         System.out.println("hello 12455");
-        System.out.println("HI");
+        System.out.println("HI 66622");
     }
 }
